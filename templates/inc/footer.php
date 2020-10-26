@@ -1,5 +1,5 @@
             <footer class="footer">
-                <p>&copy 2020 Joblister, Inc.</p>
+                <p>&copy 2020 Susanna Smith</p>
             </footer>
 
         </div>
